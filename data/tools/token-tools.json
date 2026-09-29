@@ -4,7 +4,12 @@
     "description": "Solana's next-gen token program with transfer fees, confidential transfers, interest-bearing tokens, and more.",
     "url": "https://www.solana-program.com/docs/token-2022",
     "github": "https://github.com/solana-labs/solana-program-library",
-    "tags": ["token-program", "token-2022", "spl", "official"],
+    "tags": [
+      "token-program",
+      "token-2022",
+      "spl",
+      "official"
+    ],
     "audience": "developer",
     "note": "Default for new tokens."
   },
@@ -13,7 +18,11 @@
     "description": "Viral token launchpad with a bonding curve mechanism. Launch a token in seconds.",
     "url": "https://pump.fun",
     "github": null,
-    "tags": ["launchpad", "meme-coins", "bonding-curve"],
+    "tags": [
+      "launchpad",
+      "meme-coins",
+      "bonding-curve"
+    ],
     "audience": "user"
   },
   {
@@ -21,7 +30,12 @@
     "description": "The standard for on-chain token metadata on Solana. Supports fungible tokens, NFTs, and editions.",
     "url": "https://www.metaplex.com/docs/smart-contracts/token-metadata",
     "github": "https://github.com/metaplex-foundation/mpl-token-metadata",
-    "tags": ["metadata", "standard", "fungible", "nft"],
+    "tags": [
+      "metadata",
+      "standard",
+      "fungible",
+      "nft"
+    ],
     "audience": "developer"
   },
   {
@@ -29,7 +43,12 @@
     "description": "Token vesting, streaming payments, and locks. Widely used for team/investor token distribution.",
     "url": "https://streamflow.finance",
     "github": "https://github.com/streamflow-finance",
-    "tags": ["vesting", "streaming", "locks", "distribution"],
+    "tags": [
+      "vesting",
+      "streaming",
+      "locks",
+      "distribution"
+    ],
     "audience": "both"
   },
   {
@@ -37,7 +56,12 @@
     "description": "Multisig and on-chain treasury management for teams. Control tokens, programs, and funds with a multisig.",
     "url": "https://squads.xyz",
     "github": "https://github.com/Squads-Protocol",
-    "tags": ["multisig", "treasury", "governance", "security"],
+    "tags": [
+      "multisig",
+      "treasury",
+      "governance",
+      "security"
+    ],
     "audience": "both"
   },
   {
@@ -45,7 +69,25 @@
     "description": "Simple web interface for creating and managing SPL tokens without writing any code.",
     "url": "https://spl-token-ui.com",
     "github": null,
-    "tags": ["no-code", "spl", "creation"],
+    "tags": [
+      "no-code",
+      "spl",
+      "creation"
+    ],
+    "audience": "user"
+  },
+  {
+    "name": "DEXArea",
+    "description": "Non-custodial Solana toolkit for creating and managing SPL and Token-2022 assets, including metadata, authorities, liquidity, distribution, and SOL rent recovery.",
+    "url": "https://dexarea.com/solana",
+    "github": null,
+    "tags": [
+      "no-code",
+      "spl",
+      "token-2022",
+      "token-management",
+      "liquidity"
+    ],
     "audience": "user"
   }
 ]
